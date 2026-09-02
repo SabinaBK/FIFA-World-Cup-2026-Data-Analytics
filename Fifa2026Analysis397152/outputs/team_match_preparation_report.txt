@@ -1,7 +1,7 @@
 ================================================================================
 FIFA WORLD CUP 2026 TEAM-MATCH DATA PREPARATION REPORT
 ================================================================================
-Preparation time: 2026-09-03 01:04:18
+Preparation time: 2026-09-03 01:05:36
 Input raw dataset: data/raw/world_cup_2026_match_fouls_raw.csv
 Output prepared dataset: data/processed/team_match_fouls_prepared.csv
 --------------------------------------------------------------------------------
