@@ -1,6 +1,6 @@
 FIFA WORLD CUP 2026 MATCH FOULS EXTRACTION REPORT
 ======================================================================
-Extraction time: 2026-09-03 00:44:50
+Extraction time: 2026-09-03 01:04:15
 
 PRIMARY SOURCE:
 The Stats Don't Lie: https://www.thestatsdontlie.com/football/world-cup-2026/

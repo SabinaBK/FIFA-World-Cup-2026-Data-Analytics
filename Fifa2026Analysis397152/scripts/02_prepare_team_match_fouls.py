@@ -320,6 +320,7 @@ def generate_preparation_report(
         "ROUND OF 16",
         "QUARTER FINALS",
         "SEMI FINALS",
+        "THIRD-PLACE PLAY-OFF",
         "FINAL",
     ]:
         record_count = detailed_stage_counts[stage]
