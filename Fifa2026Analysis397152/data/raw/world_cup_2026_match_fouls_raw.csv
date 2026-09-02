@@ -101,4 +101,5 @@ match_id,date,detailed_stage,stage_group,team_1,team_2,team_1_score_raw,team_2_s
 100,11/07/2026,QUARTER FINALS,Knockout,Argentina,Switzerland,3,1,3,1,Normal Time / Extra Time,14,18
 101,14/07/2026,SEMI FINALS,Knockout,France,Spain,0,2,0,2,Normal Time / Extra Time,11,12
 102,15/07/2026,SEMI FINALS,Knockout,England,Argentina,1,2,1,2,Normal Time / Extra Time,11,15
-103,19/07/2026,FINAL,Knockout,Spain,Argentina,1,0,1,0,Normal Time / Extra Time,21,25
+103,18/07/2026,THIRD-PLACE PLAY-OFF,Knockout,France,England,4,6,4,6,Normal Time / Extra Time,14,8
+104,19/07/2026,FINAL,Knockout,Spain,Argentina,1,0,1,0,Normal Time / Extra Time,21,25

@@ -1,18 +1,18 @@
 ================================================================================
 FIFA WORLD CUP 2026 TEAM-MATCH DATA PREPARATION REPORT
 ================================================================================
-Preparation time: 2026-08-28 01:16:43
+Preparation time: 2026-09-03 00:50:24
 Input raw dataset: data/raw/world_cup_2026_match_fouls_raw.csv
 Output prepared dataset: data/processed/team_match_fouls_prepared.csv
 --------------------------------------------------------------------------------
 ROW COUNT AUDIT:
-  - Input matches: 103
-  - Output team-match records: 206
-  - Expected output records: 206
+  - Input matches: 104
+  - Output team-match records: 208
+  - Expected output records: 208
 
 STAGE DISTRIBUTION:
   - Group Stage records: 144
-  - Knockout records: 62
+  - Knockout records: 64
 
 DETAILED STAGE BREAKDOWN:
   - GROUP STAGE         : 144 records (72 matches)
@@ -23,14 +23,14 @@ DETAILED STAGE BREAKDOWN:
   - FINAL               :   2 records (1 matches)
 
 RESULT CLASSIFICATION:
-  - Wins: 83
-  - Losses: 83
+  - Wins: 84
+  - Losses: 84
   - Draws: 40
-  - Total records: 206
+  - Total records: 208
 
 RESEARCH SAMPLE:
-  - Winning teams: 83
-  - Losing teams: 83
+  - Winning teams: 84
+  - Losing teams: 84
   - Sample-size adequacy (both groups >= 30): YES
 
 PENALTY SHOOTOUTS:

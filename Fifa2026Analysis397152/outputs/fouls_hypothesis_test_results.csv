@@ -1,2 +1,2 @@
 test,winner_n,loser_n,winner_mean,loser_mean,mean_difference_winner_minus_loser,t_statistic,degrees_of_freedom,p_value_two_tailed,alpha,decision
-Welch independent-samples t-test,83,83,11.27710843373494,12.373493975903614,-1.0963855421686741,-1.7387674795856327,162.4907653959236,0.08396969064918305,0.05,Fail to reject H0
+Welch independent-samples t-test,84,84,11.238095238095237,12.392857142857142,-1.154761904761905,-1.849033022786565,164.5776355230448,0.06624691681641477,0.05,Fail to reject H0

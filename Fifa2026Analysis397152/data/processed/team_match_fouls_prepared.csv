@@ -203,5 +203,7 @@ match_id,date,detailed_stage,stage_group,team,opponent,team_position,goals_for,g
 101,14/07/2026,SEMI FINALS,Knockout,Spain,France,Team 2,2,0,Normal Time / Extra Time,Win,12
 102,15/07/2026,SEMI FINALS,Knockout,England,Argentina,Team 1,1,2,Normal Time / Extra Time,Loss,11
 102,15/07/2026,SEMI FINALS,Knockout,Argentina,England,Team 2,2,1,Normal Time / Extra Time,Win,15
-103,19/07/2026,FINAL,Knockout,Spain,Argentina,Team 1,1,0,Normal Time / Extra Time,Win,21
-103,19/07/2026,FINAL,Knockout,Argentina,Spain,Team 2,0,1,Normal Time / Extra Time,Loss,25
+103,18/07/2026,THIRD-PLACE PLAY-OFF,Knockout,France,England,Team 1,4,6,Normal Time / Extra Time,Loss,14
+103,18/07/2026,THIRD-PLACE PLAY-OFF,Knockout,England,France,Team 2,6,4,Normal Time / Extra Time,Win,8
+104,19/07/2026,FINAL,Knockout,Spain,Argentina,Team 1,1,0,Normal Time / Extra Time,Win,21
+104,19/07/2026,FINAL,Knockout,Argentina,Spain,Team 2,0,1,Normal Time / Extra Time,Loss,25
