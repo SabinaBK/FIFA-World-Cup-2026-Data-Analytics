@@ -1,0 +1,58 @@
+================================================================================
+FIFA WORLD CUP 2026 TEAM-MATCH DATA PREPARATION REPORT
+================================================================================
+Preparation time: 2026-08-28 01:16:43
+Input raw dataset: data/raw/world_cup_2026_match_fouls_raw.csv
+Output prepared dataset: data/processed/team_match_fouls_prepared.csv
+--------------------------------------------------------------------------------
+ROW COUNT AUDIT:
+  - Input matches: 103
+  - Output team-match records: 206
+  - Expected output records: 206
+
+STAGE DISTRIBUTION:
+  - Group Stage records: 144
+  - Knockout records: 62
+
+DETAILED STAGE BREAKDOWN:
+  - GROUP STAGE         : 144 records (72 matches)
+  - ROUND OF 32         :  32 records (16 matches)
+  - ROUND OF 16         :  16 records (8 matches)
+  - QUARTER FINALS      :   8 records (4 matches)
+  - SEMI FINALS         :   4 records (2 matches)
+  - FINAL               :   2 records (1 matches)
+
+RESULT CLASSIFICATION:
+  - Wins: 83
+  - Losses: 83
+  - Draws: 40
+  - Total records: 206
+
+RESEARCH SAMPLE:
+  - Winning teams: 83
+  - Losing teams: 83
+  - Sample-size adequacy (both groups >= 30): YES
+
+PENALTY SHOOTOUTS:
+  - Penalty shootout matches identified: 4
+
+MISSING VALUE AUDIT:
+  - match_id: 0
+  - date: 0
+  - detailed_stage: 0
+  - stage_group: 0
+  - team: 0
+  - opponent: 0
+  - team_position: 0
+  - goals_for: 0
+  - goals_against: 0
+  - result_decision: 0
+  - result: 0
+  - fouls_committed: 0
+
+PENALTY SHOOTOUT DETAILS:
+  - Match 75 (ROUND OF 32, 29/06/2026): Germany [1] = Loss; Paraguay [1p] = Win
+  - Match 76 (ROUND OF 32, 29/06/2026): Netherlands [1] = Loss; Morocco [1p] = Win
+  - Match 86 (ROUND OF 32, 03/07/2026): Australia [1] = Loss; Egypt [1p] = Win
+  - Match 96 (ROUND OF 16, 07/07/2026): Switzerland [p0] = Win; Colombia [0] = Loss
+================================================================================

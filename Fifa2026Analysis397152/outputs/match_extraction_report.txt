@@ -1,0 +1,9 @@
+FIFA WORLD CUP 2026 MATCH FOULS EXTRACTION REPORT
+============================================================
+Extraction time: 2026-08-28 01:00:42
+Source website: https://www.thestatsdontlie.com/football/world-cup-2026/
+Published sheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vSWZFlaUHTBK09v4I1Kv7ZQ0ophhlpsCr7VPFW5dkbdG0Zpl8mRkXrTZezZMr1Ia9V9cpwmq7BKPQ03/pubhtml/sheet?headers=false&gid=995472238
+
+Group stage matches: 72
+Knockout matches: 31
+Total matches extracted: 103

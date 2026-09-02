@@ -1,0 +1,30 @@
+FIFA WORLD CUP 2026 FOULS STATISTICAL ANALYSIS
+============================================================
+
+1. DESCRIPTIVE STATISTICS
+============================================================
+Winning teams: n = 83
+Winning teams mean fouls: 11.2771
+Winning teams standard deviation: 3.8614
+Winning teams standard error: 0.4238
+Losing teams: n = 83
+Losing teams mean fouls: 12.3735
+Losing teams standard deviation: 4.2533
+Losing teams standard error: 0.4669
+Mean difference (winner - loser): -1.0964
+
+2. 95% CONFIDENCE INTERVALS
+============================================================
+Winning teams: 10.4340 to 12.1203
+Losing teams: 11.4448 to 13.3022
+
+3. HYPOTHESIS TEST: WELCH INDEPENDENT-SAMPLES T-TEST
+============================================================
+Null Hypothesis (H0): mu_win = mu_loss (No difference in average fouls)
+Alternative Hypothesis (H1) : mu_win != mu_loss (Difference in average fouls exists)
+Mean difference (winner - loser): -1.0964
+t-statistic: -1.7388
+Degrees of freedom: 162.4908
+Two-tailed p-value: 0.0840
+Significance level: 0.05
+Decision: Fail to reject H0
