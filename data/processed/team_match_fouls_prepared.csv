@@ -1,0 +1,209 @@
+match_id,date,detailed_stage,stage_group,team,opponent,team_position,goals_for,goals_against,result_decision,result,fouls_committed
+1,11/06/2026,GROUP STAGE,Group Stage,Mexico,South Africa,Team 1,2,0,Normal Time / Extra Time,Win,12
+1,11/06/2026,GROUP STAGE,Group Stage,South Africa,Mexico,Team 2,0,2,Normal Time / Extra Time,Loss,11
+2,12/06/2026,GROUP STAGE,Group Stage,South Korea,Czech Republic,Team 1,2,1,Normal Time / Extra Time,Win,9
+2,12/06/2026,GROUP STAGE,Group Stage,Czech Republic,South Korea,Team 2,1,2,Normal Time / Extra Time,Loss,16
+3,12/06/2026,GROUP STAGE,Group Stage,Canada,Bosnia & Herzegovina,Team 1,1,1,Normal Time / Extra Time,Draw,10
+3,12/06/2026,GROUP STAGE,Group Stage,Bosnia & Herzegovina,Canada,Team 2,1,1,Normal Time / Extra Time,Draw,20
+4,13/06/2026,GROUP STAGE,Group Stage,USA,Paraguay,Team 1,4,1,Normal Time / Extra Time,Win,13
+4,13/06/2026,GROUP STAGE,Group Stage,Paraguay,USA,Team 2,1,4,Normal Time / Extra Time,Loss,17
+5,13/06/2026,GROUP STAGE,Group Stage,Qatar,Switzerland,Team 1,1,1,Normal Time / Extra Time,Draw,12
+5,13/06/2026,GROUP STAGE,Group Stage,Switzerland,Qatar,Team 2,1,1,Normal Time / Extra Time,Draw,11
+6,13/06/2026,GROUP STAGE,Group Stage,Brazil,Morocco,Team 1,1,1,Normal Time / Extra Time,Draw,16
+6,13/06/2026,GROUP STAGE,Group Stage,Morocco,Brazil,Team 2,1,1,Normal Time / Extra Time,Draw,14
+7,14/06/2026,GROUP STAGE,Group Stage,Haiti,Scotland,Team 1,0,1,Normal Time / Extra Time,Loss,23
+7,14/06/2026,GROUP STAGE,Group Stage,Scotland,Haiti,Team 2,1,0,Normal Time / Extra Time,Win,21
+8,14/06/2026,GROUP STAGE,Group Stage,Australia,Turkey,Team 1,2,0,Normal Time / Extra Time,Win,12
+8,14/06/2026,GROUP STAGE,Group Stage,Turkey,Australia,Team 2,0,2,Normal Time / Extra Time,Loss,4
+9,14/06/2026,GROUP STAGE,Group Stage,Germany,Curacao,Team 1,7,1,Normal Time / Extra Time,Win,18
+9,14/06/2026,GROUP STAGE,Group Stage,Curacao,Germany,Team 2,1,7,Normal Time / Extra Time,Loss,11
+10,14/06/2026,GROUP STAGE,Group Stage,Netherlands,Japan,Team 1,2,2,Normal Time / Extra Time,Draw,7
+10,14/06/2026,GROUP STAGE,Group Stage,Japan,Netherlands,Team 2,2,2,Normal Time / Extra Time,Draw,7
+11,15/06/2026,GROUP STAGE,Group Stage,Ivory Coast,Ecuador,Team 1,1,0,Normal Time / Extra Time,Win,10
+11,15/06/2026,GROUP STAGE,Group Stage,Ecuador,Ivory Coast,Team 2,0,1,Normal Time / Extra Time,Loss,13
+12,15/06/2026,GROUP STAGE,Group Stage,Sweden,Tunisia,Team 1,5,1,Normal Time / Extra Time,Win,10
+12,15/06/2026,GROUP STAGE,Group Stage,Tunisia,Sweden,Team 2,1,5,Normal Time / Extra Time,Loss,8
+13,15/06/2026,GROUP STAGE,Group Stage,Spain,Cape Verde,Team 1,0,0,Normal Time / Extra Time,Draw,10
+13,15/06/2026,GROUP STAGE,Group Stage,Cape Verde,Spain,Team 2,0,0,Normal Time / Extra Time,Draw,1
+14,15/06/2026,GROUP STAGE,Group Stage,Belgium,Egypt,Team 1,1,1,Normal Time / Extra Time,Draw,15
+14,15/06/2026,GROUP STAGE,Group Stage,Egypt,Belgium,Team 2,1,1,Normal Time / Extra Time,Draw,15
+15,15/06/2026,GROUP STAGE,Group Stage,Saudi Arabia,Uruguay,Team 1,1,1,Normal Time / Extra Time,Draw,11
+15,15/06/2026,GROUP STAGE,Group Stage,Uruguay,Saudi Arabia,Team 2,1,1,Normal Time / Extra Time,Draw,6
+16,16/06/2026,GROUP STAGE,Group Stage,Iran,New Zealand,Team 1,2,2,Normal Time / Extra Time,Draw,10
+16,16/06/2026,GROUP STAGE,Group Stage,New Zealand,Iran,Team 2,2,2,Normal Time / Extra Time,Draw,8
+17,16/06/2026,GROUP STAGE,Group Stage,France,Senegal,Team 1,3,1,Normal Time / Extra Time,Win,5
+17,16/06/2026,GROUP STAGE,Group Stage,Senegal,France,Team 2,1,3,Normal Time / Extra Time,Loss,9
+18,16/06/2026,GROUP STAGE,Group Stage,Iraq,Norway,Team 1,1,4,Normal Time / Extra Time,Loss,12
+18,16/06/2026,GROUP STAGE,Group Stage,Norway,Iraq,Team 2,4,1,Normal Time / Extra Time,Win,13
+19,17/06/2026,GROUP STAGE,Group Stage,Argentina,Algeria,Team 1,3,0,Normal Time / Extra Time,Win,13
+19,17/06/2026,GROUP STAGE,Group Stage,Algeria,Argentina,Team 2,0,3,Normal Time / Extra Time,Loss,8
+20,17/06/2026,GROUP STAGE,Group Stage,Austria,Jordan,Team 1,3,1,Normal Time / Extra Time,Win,12
+20,17/06/2026,GROUP STAGE,Group Stage,Jordan,Austria,Team 2,1,3,Normal Time / Extra Time,Loss,7
+21,17/06/2026,GROUP STAGE,Group Stage,Portugal,D.R. Congo,Team 1,1,1,Normal Time / Extra Time,Draw,9
+21,17/06/2026,GROUP STAGE,Group Stage,D.R. Congo,Portugal,Team 2,1,1,Normal Time / Extra Time,Draw,10
+22,17/06/2026,GROUP STAGE,Group Stage,England,Croatia,Team 1,4,2,Normal Time / Extra Time,Win,10
+22,17/06/2026,GROUP STAGE,Group Stage,Croatia,England,Team 2,2,4,Normal Time / Extra Time,Loss,12
+23,18/06/2026,GROUP STAGE,Group Stage,Ghana,Panama,Team 1,1,0,Normal Time / Extra Time,Win,9
+23,18/06/2026,GROUP STAGE,Group Stage,Panama,Ghana,Team 2,0,1,Normal Time / Extra Time,Loss,11
+24,18/06/2026,GROUP STAGE,Group Stage,Uzbekistan,Colombia,Team 1,1,3,Normal Time / Extra Time,Loss,14
+24,18/06/2026,GROUP STAGE,Group Stage,Colombia,Uzbekistan,Team 2,3,1,Normal Time / Extra Time,Win,11
+25,18/06/2026,GROUP STAGE,Group Stage,Czech Republic,South Africa,Team 1,1,1,Normal Time / Extra Time,Draw,12
+25,18/06/2026,GROUP STAGE,Group Stage,South Africa,Czech Republic,Team 2,1,1,Normal Time / Extra Time,Draw,10
+26,18/06/2026,GROUP STAGE,Group Stage,Switzerland,Bosnia & Herzegovina,Team 1,4,1,Normal Time / Extra Time,Win,7
+26,18/06/2026,GROUP STAGE,Group Stage,Bosnia & Herzegovina,Switzerland,Team 2,1,4,Normal Time / Extra Time,Loss,18
+27,18/06/2026,GROUP STAGE,Group Stage,Canada,Qatar,Team 1,6,0,Normal Time / Extra Time,Win,9
+27,18/06/2026,GROUP STAGE,Group Stage,Qatar,Canada,Team 2,0,6,Normal Time / Extra Time,Loss,10
+28,19/06/2026,GROUP STAGE,Group Stage,Mexico,South Korea,Team 1,1,0,Normal Time / Extra Time,Win,9
+28,19/06/2026,GROUP STAGE,Group Stage,South Korea,Mexico,Team 2,0,1,Normal Time / Extra Time,Loss,7
+29,19/06/2026,GROUP STAGE,Group Stage,USA,Australia,Team 1,2,0,Normal Time / Extra Time,Win,12
+29,19/06/2026,GROUP STAGE,Group Stage,Australia,USA,Team 2,0,2,Normal Time / Extra Time,Loss,16
+30,19/06/2026,GROUP STAGE,Group Stage,Scotland,Morocco,Team 1,0,1,Normal Time / Extra Time,Loss,11
+30,19/06/2026,GROUP STAGE,Group Stage,Morocco,Scotland,Team 2,1,0,Normal Time / Extra Time,Win,8
+31,20/06/2026,GROUP STAGE,Group Stage,Brazil,Haiti,Team 1,3,0,Normal Time / Extra Time,Win,13
+31,20/06/2026,GROUP STAGE,Group Stage,Haiti,Brazil,Team 2,0,3,Normal Time / Extra Time,Loss,14
+32,20/06/2026,GROUP STAGE,Group Stage,Turkey,Paraguay,Team 1,0,1,Normal Time / Extra Time,Loss,14
+32,20/06/2026,GROUP STAGE,Group Stage,Paraguay,Turkey,Team 2,1,0,Normal Time / Extra Time,Win,15
+33,20/06/2026,GROUP STAGE,Group Stage,Netherlands,Sweden,Team 1,5,1,Normal Time / Extra Time,Win,9
+33,20/06/2026,GROUP STAGE,Group Stage,Sweden,Netherlands,Team 2,1,5,Normal Time / Extra Time,Loss,12
+34,20/06/2026,GROUP STAGE,Group Stage,Germany,Ivory Coast,Team 1,2,1,Normal Time / Extra Time,Win,5
+34,20/06/2026,GROUP STAGE,Group Stage,Ivory Coast,Germany,Team 2,1,2,Normal Time / Extra Time,Loss,7
+35,21/06/2026,GROUP STAGE,Group Stage,Ecuador,Curacao,Team 1,0,0,Normal Time / Extra Time,Draw,7
+35,21/06/2026,GROUP STAGE,Group Stage,Curacao,Ecuador,Team 2,0,0,Normal Time / Extra Time,Draw,10
+36,21/06/2026,GROUP STAGE,Group Stage,Tunisia,Japan,Team 1,0,4,Normal Time / Extra Time,Loss,8
+36,21/06/2026,GROUP STAGE,Group Stage,Japan,Tunisia,Team 2,4,0,Normal Time / Extra Time,Win,15
+37,21/06/2026,GROUP STAGE,Group Stage,Spain,Saudi Arabia,Team 1,4,0,Normal Time / Extra Time,Win,10
+37,21/06/2026,GROUP STAGE,Group Stage,Saudi Arabia,Spain,Team 2,0,4,Normal Time / Extra Time,Loss,2
+38,21/06/2026,GROUP STAGE,Group Stage,Belgium,Iran,Team 1,0,0,Normal Time / Extra Time,Draw,7
+38,21/06/2026,GROUP STAGE,Group Stage,Iran,Belgium,Team 2,0,0,Normal Time / Extra Time,Draw,9
+39,21/06/2026,GROUP STAGE,Group Stage,Uruguay,Cape Verde,Team 1,2,2,Normal Time / Extra Time,Draw,11
+39,21/06/2026,GROUP STAGE,Group Stage,Cape Verde,Uruguay,Team 2,2,2,Normal Time / Extra Time,Draw,4
+40,22/06/2026,GROUP STAGE,Group Stage,New Zealand,Egypt,Team 1,1,3,Normal Time / Extra Time,Loss,14
+40,22/06/2026,GROUP STAGE,Group Stage,Egypt,New Zealand,Team 2,3,1,Normal Time / Extra Time,Win,8
+41,22/06/2026,GROUP STAGE,Group Stage,Argentina,Austria,Team 1,2,0,Normal Time / Extra Time,Win,13
+41,22/06/2026,GROUP STAGE,Group Stage,Austria,Argentina,Team 2,0,2,Normal Time / Extra Time,Loss,13
+42,22/06/2026,GROUP STAGE,Group Stage,France,Iraq,Team 1,3,0,Normal Time / Extra Time,Win,8
+42,22/06/2026,GROUP STAGE,Group Stage,Iraq,France,Team 2,0,3,Normal Time / Extra Time,Loss,4
+43,23/06/2026,GROUP STAGE,Group Stage,Norway,Senegal,Team 1,3,2,Normal Time / Extra Time,Win,13
+43,23/06/2026,GROUP STAGE,Group Stage,Senegal,Norway,Team 2,2,3,Normal Time / Extra Time,Loss,5
+44,23/06/2026,GROUP STAGE,Group Stage,Jordan,Algeria,Team 1,1,2,Normal Time / Extra Time,Loss,11
+44,23/06/2026,GROUP STAGE,Group Stage,Algeria,Jordan,Team 2,2,1,Normal Time / Extra Time,Win,6
+45,23/06/2026,GROUP STAGE,Group Stage,Portugal,Uzbekistan,Team 1,5,0,Normal Time / Extra Time,Win,14
+45,23/06/2026,GROUP STAGE,Group Stage,Uzbekistan,Portugal,Team 2,0,5,Normal Time / Extra Time,Loss,15
+46,23/06/2026,GROUP STAGE,Group Stage,England,Ghana,Team 1,0,0,Normal Time / Extra Time,Draw,14
+46,23/06/2026,GROUP STAGE,Group Stage,Ghana,England,Team 2,0,0,Normal Time / Extra Time,Draw,24
+47,24/06/2026,GROUP STAGE,Group Stage,Panama,Croatia,Team 1,0,1,Normal Time / Extra Time,Loss,19
+47,24/06/2026,GROUP STAGE,Group Stage,Croatia,Panama,Team 2,1,0,Normal Time / Extra Time,Win,12
+48,24/06/2026,GROUP STAGE,Group Stage,Colombia,D.R. Congo,Team 1,1,0,Normal Time / Extra Time,Win,12
+48,24/06/2026,GROUP STAGE,Group Stage,D.R. Congo,Colombia,Team 2,0,1,Normal Time / Extra Time,Loss,16
+49,24/06/2026,GROUP STAGE,Group Stage,Bosnia & Herzegovina,Qatar,Team 1,3,1,Normal Time / Extra Time,Win,9
+49,24/06/2026,GROUP STAGE,Group Stage,Qatar,Bosnia & Herzegovina,Team 2,1,3,Normal Time / Extra Time,Loss,14
+50,24/06/2026,GROUP STAGE,Group Stage,Switzerland,Canada,Team 1,2,1,Normal Time / Extra Time,Win,19
+50,24/06/2026,GROUP STAGE,Group Stage,Canada,Switzerland,Team 2,1,2,Normal Time / Extra Time,Loss,13
+51,24/06/2026,GROUP STAGE,Group Stage,Morocco,Haiti,Team 1,4,2,Normal Time / Extra Time,Win,10
+51,24/06/2026,GROUP STAGE,Group Stage,Haiti,Morocco,Team 2,2,4,Normal Time / Extra Time,Loss,18
+52,24/06/2026,GROUP STAGE,Group Stage,Scotland,Brazil,Team 1,0,3,Normal Time / Extra Time,Loss,10
+52,24/06/2026,GROUP STAGE,Group Stage,Brazil,Scotland,Team 2,3,0,Normal Time / Extra Time,Win,11
+53,25/06/2026,GROUP STAGE,Group Stage,Czech Republic,Mexico,Team 1,0,3,Normal Time / Extra Time,Loss,9
+53,25/06/2026,GROUP STAGE,Group Stage,Mexico,Czech Republic,Team 2,3,0,Normal Time / Extra Time,Win,13
+54,25/06/2026,GROUP STAGE,Group Stage,South Africa,South Korea,Team 1,1,0,Normal Time / Extra Time,Win,7
+54,25/06/2026,GROUP STAGE,Group Stage,South Korea,South Africa,Team 2,0,1,Normal Time / Extra Time,Loss,9
+55,25/06/2026,GROUP STAGE,Group Stage,Curacao,Ivory Coast,Team 1,0,2,Normal Time / Extra Time,Loss,11
+55,25/06/2026,GROUP STAGE,Group Stage,Ivory Coast,Curacao,Team 2,2,0,Normal Time / Extra Time,Win,6
+56,25/06/2026,GROUP STAGE,Group Stage,Ecuador,Germany,Team 1,2,1,Normal Time / Extra Time,Win,15
+56,25/06/2026,GROUP STAGE,Group Stage,Germany,Ecuador,Team 2,1,2,Normal Time / Extra Time,Loss,10
+57,26/06/2026,GROUP STAGE,Group Stage,Japan,Sweden,Team 1,1,1,Normal Time / Extra Time,Draw,20
+57,26/06/2026,GROUP STAGE,Group Stage,Sweden,Japan,Team 2,1,1,Normal Time / Extra Time,Draw,11
+58,26/06/2026,GROUP STAGE,Group Stage,Tunisia,Netherlands,Team 1,1,3,Normal Time / Extra Time,Loss,11
+58,26/06/2026,GROUP STAGE,Group Stage,Netherlands,Tunisia,Team 2,3,1,Normal Time / Extra Time,Win,10
+59,26/06/2026,GROUP STAGE,Group Stage,Paraguay,Australia,Team 1,0,0,Normal Time / Extra Time,Draw,9
+59,26/06/2026,GROUP STAGE,Group Stage,Australia,Paraguay,Team 2,0,0,Normal Time / Extra Time,Draw,6
+60,26/06/2026,GROUP STAGE,Group Stage,Turkey,USA,Team 1,3,2,Normal Time / Extra Time,Win,13
+60,26/06/2026,GROUP STAGE,Group Stage,USA,Turkey,Team 2,2,3,Normal Time / Extra Time,Loss,13
+61,26/06/2026,GROUP STAGE,Group Stage,Norway,France,Team 1,1,4,Normal Time / Extra Time,Loss,9
+61,26/06/2026,GROUP STAGE,Group Stage,France,Norway,Team 2,4,1,Normal Time / Extra Time,Win,11
+62,26/06/2026,GROUP STAGE,Group Stage,Senegal,Iraq,Team 1,5,0,Normal Time / Extra Time,Win,10
+62,26/06/2026,GROUP STAGE,Group Stage,Iraq,Senegal,Team 2,0,5,Normal Time / Extra Time,Loss,11
+63,27/06/2026,GROUP STAGE,Group Stage,Cape Verde,Saudi Arabia,Team 1,0,0,Normal Time / Extra Time,Draw,10
+63,27/06/2026,GROUP STAGE,Group Stage,Saudi Arabia,Cape Verde,Team 2,0,0,Normal Time / Extra Time,Draw,16
+64,27/06/2026,GROUP STAGE,Group Stage,Uruguay,Spain,Team 1,0,1,Normal Time / Extra Time,Loss,14
+64,27/06/2026,GROUP STAGE,Group Stage,Spain,Uruguay,Team 2,1,0,Normal Time / Extra Time,Win,14
+65,27/06/2026,GROUP STAGE,Group Stage,Egypt,Iran,Team 1,1,1,Normal Time / Extra Time,Draw,11
+65,27/06/2026,GROUP STAGE,Group Stage,Iran,Egypt,Team 2,1,1,Normal Time / Extra Time,Draw,16
+66,27/06/2026,GROUP STAGE,Group Stage,New Zealand,Belgium,Team 1,1,5,Normal Time / Extra Time,Loss,10
+66,27/06/2026,GROUP STAGE,Group Stage,Belgium,New Zealand,Team 2,5,1,Normal Time / Extra Time,Win,7
+67,27/06/2026,GROUP STAGE,Group Stage,Croatia,Ghana,Team 1,2,1,Normal Time / Extra Time,Win,9
+67,27/06/2026,GROUP STAGE,Group Stage,Ghana,Croatia,Team 2,1,2,Normal Time / Extra Time,Loss,13
+68,27/06/2026,GROUP STAGE,Group Stage,Panama,England,Team 1,0,2,Normal Time / Extra Time,Loss,16
+68,27/06/2026,GROUP STAGE,Group Stage,England,Panama,Team 2,2,0,Normal Time / Extra Time,Win,13
+69,28/06/2026,GROUP STAGE,Group Stage,Colombia,Portugal,Team 1,0,0,Normal Time / Extra Time,Draw,12
+69,28/06/2026,GROUP STAGE,Group Stage,Portugal,Colombia,Team 2,0,0,Normal Time / Extra Time,Draw,6
+70,28/06/2026,GROUP STAGE,Group Stage,D.R. Congo,Uzbekistan,Team 1,3,1,Normal Time / Extra Time,Win,6
+70,28/06/2026,GROUP STAGE,Group Stage,Uzbekistan,D.R. Congo,Team 2,1,3,Normal Time / Extra Time,Loss,16
+71,28/06/2026,GROUP STAGE,Group Stage,Algeria,Austria,Team 1,3,3,Normal Time / Extra Time,Draw,3
+71,28/06/2026,GROUP STAGE,Group Stage,Austria,Algeria,Team 2,3,3,Normal Time / Extra Time,Draw,7
+72,28/06/2026,GROUP STAGE,Group Stage,Jordan,Argentina,Team 1,1,3,Normal Time / Extra Time,Loss,13
+72,28/06/2026,GROUP STAGE,Group Stage,Argentina,Jordan,Team 2,3,1,Normal Time / Extra Time,Win,7
+73,28/06/2026,ROUND OF 32,Knockout,South Africa,Canada,Team 1,0,1,Normal Time / Extra Time,Loss,10
+73,28/06/2026,ROUND OF 32,Knockout,Canada,South Africa,Team 2,1,0,Normal Time / Extra Time,Win,16
+74,29/06/2026,ROUND OF 32,Knockout,Brazil,Japan,Team 1,2,1,Normal Time / Extra Time,Win,4
+74,29/06/2026,ROUND OF 32,Knockout,Japan,Brazil,Team 2,1,2,Normal Time / Extra Time,Loss,13
+75,29/06/2026,ROUND OF 32,Knockout,Germany,Paraguay,Team 1,1,1,Penalty Shootout,Loss,18
+75,29/06/2026,ROUND OF 32,Knockout,Paraguay,Germany,Team 2,1,1,Penalty Shootout,Win,12
+76,29/06/2026,ROUND OF 32,Knockout,Netherlands,Morocco,Team 1,1,1,Penalty Shootout,Loss,18
+76,29/06/2026,ROUND OF 32,Knockout,Morocco,Netherlands,Team 2,1,1,Penalty Shootout,Win,15
+77,30/06/2026,ROUND OF 32,Knockout,Ivory Coast,Norway,Team 1,1,2,Normal Time / Extra Time,Loss,6
+77,30/06/2026,ROUND OF 32,Knockout,Norway,Ivory Coast,Team 2,2,1,Normal Time / Extra Time,Win,7
+78,30/06/2026,ROUND OF 32,Knockout,France,Sweden,Team 1,3,0,Normal Time / Extra Time,Win,14
+78,30/06/2026,ROUND OF 32,Knockout,Sweden,France,Team 2,0,3,Normal Time / Extra Time,Loss,10
+79,30/06/2026,ROUND OF 32,Knockout,Mexico,Ecuador,Team 1,2,0,Normal Time / Extra Time,Win,10
+79,30/06/2026,ROUND OF 32,Knockout,Ecuador,Mexico,Team 2,0,2,Normal Time / Extra Time,Loss,14
+80,01/07/2026,ROUND OF 32,Knockout,England,D.R. Congo,Team 1,2,1,Normal Time / Extra Time,Win,10
+80,01/07/2026,ROUND OF 32,Knockout,D.R. Congo,England,Team 2,1,2,Normal Time / Extra Time,Loss,12
+81,01/07/2026,ROUND OF 32,Knockout,Belgium,Senegal,Team 1,3,2,Normal Time / Extra Time,Win,22
+81,01/07/2026,ROUND OF 32,Knockout,Senegal,Belgium,Team 2,2,3,Normal Time / Extra Time,Loss,12
+82,01/07/2026,ROUND OF 32,Knockout,USA,Bosnia & Herzegovina,Team 1,2,0,Normal Time / Extra Time,Win,7
+82,01/07/2026,ROUND OF 32,Knockout,Bosnia & Herzegovina,USA,Team 2,0,2,Normal Time / Extra Time,Loss,13
+83,02/07/2026,ROUND OF 32,Knockout,Spain,Austria,Team 1,3,0,Normal Time / Extra Time,Win,8
+83,02/07/2026,ROUND OF 32,Knockout,Austria,Spain,Team 2,0,3,Normal Time / Extra Time,Loss,15
+84,02/07/2026,ROUND OF 32,Knockout,Portugal,Croatia,Team 1,2,1,Normal Time / Extra Time,Win,6
+84,02/07/2026,ROUND OF 32,Knockout,Croatia,Portugal,Team 2,1,2,Normal Time / Extra Time,Loss,12
+85,02/07/2026,ROUND OF 32,Knockout,Switzerland,Algeria,Team 1,2,0,Normal Time / Extra Time,Win,10
+85,02/07/2026,ROUND OF 32,Knockout,Algeria,Switzerland,Team 2,0,2,Normal Time / Extra Time,Loss,12
+86,03/07/2026,ROUND OF 32,Knockout,Australia,Egypt,Team 1,1,1,Penalty Shootout,Loss,12
+86,03/07/2026,ROUND OF 32,Knockout,Egypt,Australia,Team 2,1,1,Penalty Shootout,Win,14
+87,03/07/2026,ROUND OF 32,Knockout,Argentina,Cape Verde,Team 1,3,2,Normal Time / Extra Time,Win,13
+87,03/07/2026,ROUND OF 32,Knockout,Cape Verde,Argentina,Team 2,2,3,Normal Time / Extra Time,Loss,12
+88,03/07/2026,ROUND OF 32,Knockout,Colombia,Ghana,Team 1,1,0,Normal Time / Extra Time,Win,14
+88,03/07/2026,ROUND OF 32,Knockout,Ghana,Colombia,Team 2,0,1,Normal Time / Extra Time,Loss,10
+89,04/07/2026,ROUND OF 16,Knockout,Canada,Morocco,Team 1,0,3,Normal Time / Extra Time,Loss,24
+89,04/07/2026,ROUND OF 16,Knockout,Morocco,Canada,Team 2,3,0,Normal Time / Extra Time,Win,14
+90,04/07/2026,ROUND OF 16,Knockout,Paraguay,France,Team 1,0,1,Normal Time / Extra Time,Loss,13
+90,04/07/2026,ROUND OF 16,Knockout,France,Paraguay,Team 2,1,0,Normal Time / Extra Time,Win,11
+91,05/07/2026,ROUND OF 16,Knockout,Brazil,Norway,Team 1,1,2,Normal Time / Extra Time,Loss,7
+91,05/07/2026,ROUND OF 16,Knockout,Norway,Brazil,Team 2,2,1,Normal Time / Extra Time,Win,6
+92,05/07/2026,ROUND OF 16,Knockout,Mexico,England,Team 1,2,3,Normal Time / Extra Time,Loss,14
+92,05/07/2026,ROUND OF 16,Knockout,England,Mexico,Team 2,3,2,Normal Time / Extra Time,Win,7
+93,06/07/2026,ROUND OF 16,Knockout,Portugal,Spain,Team 1,0,1,Normal Time / Extra Time,Loss,9
+93,06/07/2026,ROUND OF 16,Knockout,Spain,Portugal,Team 2,1,0,Normal Time / Extra Time,Win,13
+94,06/07/2026,ROUND OF 16,Knockout,USA,Belgium,Team 1,1,4,Normal Time / Extra Time,Loss,11
+94,06/07/2026,ROUND OF 16,Knockout,Belgium,USA,Team 2,4,1,Normal Time / Extra Time,Win,9
+95,07/07/2026,ROUND OF 16,Knockout,Argentina,Egypt,Team 1,3,2,Normal Time / Extra Time,Win,13
+95,07/07/2026,ROUND OF 16,Knockout,Egypt,Argentina,Team 2,2,3,Normal Time / Extra Time,Loss,11
+96,07/07/2026,ROUND OF 16,Knockout,Switzerland,Colombia,Team 1,0,0,Penalty Shootout,Win,22
+96,07/07/2026,ROUND OF 16,Knockout,Colombia,Switzerland,Team 2,0,0,Penalty Shootout,Loss,21
+97,09/07/2026,QUARTER FINALS,Knockout,France,Morocco,Team 1,2,0,Normal Time / Extra Time,Win,10
+97,09/07/2026,QUARTER FINALS,Knockout,Morocco,France,Team 2,0,2,Normal Time / Extra Time,Loss,13
+98,10/07/2026,QUARTER FINALS,Knockout,Spain,Belgium,Team 1,2,1,Normal Time / Extra Time,Win,13
+98,10/07/2026,QUARTER FINALS,Knockout,Belgium,Spain,Team 2,1,2,Normal Time / Extra Time,Loss,18
+99,11/07/2026,QUARTER FINALS,Knockout,Norway,England,Team 1,1,2,Normal Time / Extra Time,Loss,10
+99,11/07/2026,QUARTER FINALS,Knockout,England,Norway,Team 2,2,1,Normal Time / Extra Time,Win,8
+100,11/07/2026,QUARTER FINALS,Knockout,Argentina,Switzerland,Team 1,3,1,Normal Time / Extra Time,Win,14
+100,11/07/2026,QUARTER FINALS,Knockout,Switzerland,Argentina,Team 2,1,3,Normal Time / Extra Time,Loss,18
+101,14/07/2026,SEMI FINALS,Knockout,France,Spain,Team 1,0,2,Normal Time / Extra Time,Loss,11
+101,14/07/2026,SEMI FINALS,Knockout,Spain,France,Team 2,2,0,Normal Time / Extra Time,Win,12
+102,15/07/2026,SEMI FINALS,Knockout,England,Argentina,Team 1,1,2,Normal Time / Extra Time,Loss,11
+102,15/07/2026,SEMI FINALS,Knockout,Argentina,England,Team 2,2,1,Normal Time / Extra Time,Win,15
+103,18/07/2026,THIRD-PLACE PLAY-OFF,Knockout,France,England,Team 1,4,6,Normal Time / Extra Time,Loss,14
+103,18/07/2026,THIRD-PLACE PLAY-OFF,Knockout,England,France,Team 2,6,4,Normal Time / Extra Time,Win,8
+104,19/07/2026,FINAL,Knockout,Spain,Argentina,Team 1,1,0,Normal Time / Extra Time,Win,21
+104,19/07/2026,FINAL,Knockout,Argentina,Spain,Team 2,0,1,Normal Time / Extra Time,Loss,25
