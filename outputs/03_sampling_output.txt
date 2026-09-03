@@ -1,10 +1,4 @@
-
-
-================================================================================
-
 3. DATA PREPARATION AND SAMPLING
-
-================================================================================
 
 Cleaned forward population size:
 
@@ -34,7 +28,6 @@ Minimum required sample size per group:
 
 SAMPLE SIZE VALIDATION
 
-----------------------------------------
 
 Progressed sample:
 
