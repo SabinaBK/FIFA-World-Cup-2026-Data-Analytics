@@ -1,0 +1,23 @@
+
+
+DATA WRANGLING
+
+Raw match records loaded:
+103
+Original columns:
+['date', 'stage', 'round', 'team1', 'team2', 'corners_t1', 'corners_t2']
+Selected variables after wrangling:
+['date', 'stage', 'round', 'team', 'corners']
+First 10 records after wrangling:
+      date stage       round        team  corners
+2026-06-11 Group Group Stage      Mexico        3
+2026-06-12 Group Group Stage South Korea        4
+2026-06-12 Group Group Stage      Canada        9
+2026-06-13 Group Group Stage         USA        3
+2026-06-13 Group Group Stage       Qatar        3
+2026-06-13 Group Group Stage      Brazil        6
+2026-06-14 Group Group Stage       Haiti        4
+2026-06-14 Group Group Stage   Australia        5
+2026-06-14 Group Group Stage     Germany        8
+2026-06-14 Group Group Stage Netherlands        5
+Data wrangling completed successfully.

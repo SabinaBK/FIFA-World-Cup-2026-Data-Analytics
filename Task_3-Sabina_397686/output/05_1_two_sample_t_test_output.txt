@@ -1,0 +1,19 @@
+
+
+HYPOTHESIS TESTING — TWO SAMPLE T-TEST
+
+H₀: mean of Group Stage = mean of Knockout Stage
+H1: mean of Group Stage does not equal mean of Knockout Stage
+(equal_var=False; unequal variances assumed)
+
+Group Stage:    Mean: 4.56. Standard deviation: 3.52. Size: 50.
+Knockout Stage: Mean: 5.00. Standard deviation: 3.68. Size: 50.
+
+t-statistic (t*): -0.61
+p-value: 0.5429
+
+Conclusion:
+We accept the null hypothesis.
+
+Histogram saved to:
+../output/05_2_two_sample_t_test_histogram.png

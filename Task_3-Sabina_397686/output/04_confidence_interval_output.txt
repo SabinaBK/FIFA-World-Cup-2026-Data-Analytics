@@ -1,0 +1,21 @@
+
+
+CONFIDENCE INTERVAL
+
+
+GROUP STAGE
+Mean: 4.56. Standard deviation: 3.52. Size: 50.
+Z-statistic: 1.96
+Standard error: 0.50
+Margin of error: 0.98
+Confidence Interval of the mean: 3.58 to 5.54
+
+
+KNOCKOUT STAGE
+Mean: 5.00. Standard deviation: 3.68. Size: 50.
+Z-statistic: 1.96
+Standard error: 0.52
+Margin of error: 1.02
+Confidence Interval of the mean: 3.98 to 6.02
+
+Confidence interval calculation completed successfully.

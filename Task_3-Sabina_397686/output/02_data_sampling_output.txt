@@ -1,0 +1,17 @@
+
+
+DATA SAMPLING
+
+Population sizes:
+Group n: 144
+Knockout n: 62
+
+Sample sizes chosen:
+Group sample size: 50
+Knockout sample size: 50
+
+Sample extraction verified:
+Group sample n: 50
+Knockout sample n: 50
+
+Sampling completed successfully.

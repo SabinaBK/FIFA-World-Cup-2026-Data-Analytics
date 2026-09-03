@@ -1,0 +1,25 @@
+
+
+DESCRIPTIVE STATISTICS
+
+
+GROUP STAGE
+Mean: 4.56
+Median: 4.00
+Mode value: 3
+Range: 19
+Sample variance: 12.41. Population variance: 12.17.
+Sample std. dev.: 3.52. Population std. dev.: 3.49.
+IQR: 3. 25th percentile: 2. 75th percentile: 5
+
+
+KNOCKOUT STAGE
+Mean: 5
+Median: 4.00
+Mode value: 2
+Range: 16
+Sample variance: 13.55. Population variance: 13.28.
+Sample std. dev.: 3.68. Population std. dev.: 3.64.
+IQR: 5. 25th percentile: 2. 75th percentile: 7
+
+Descriptive statistics completed successfully.
