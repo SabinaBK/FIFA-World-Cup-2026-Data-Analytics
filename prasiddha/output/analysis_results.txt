@@ -1,0 +1,66 @@
+FIFA WORLD CUP 2026 PASSING ANALYSIS
+====================================
+
+RESEARCH QUESTION
+-----------------
+Is the average number of completed passes significantly different between FIFA World Cup 2026 players with passing accuracy of 90% or greater and players with passing accuracy below 90%?
+
+POPULATION AND SAMPLING
+-----------------------
+Population - Passing Accuracy >= 90%: 111 players
+Population - Passing Accuracy < 90%: 89 players
+Sample - Passing Accuracy >= 90%: 40 players
+Sample - Passing Accuracy < 90%: 40 players
+Total Sample Size: 80 players
+
+DESCRIPTIVE STATISTICS
+----------------------
+Passing Accuracy >= 90%
+Sample Size: 40
+Mean: 294.35
+Median: 258.50
+Standard Deviation: 119.97
+Minimum: 153.00
+Maximum: 747.00
+
+Passing Accuracy < 90%
+Sample Size: 40
+Mean: 200.60
+Median: 182.00
+Standard Deviation: 54.69
+Minimum: 141.00
+Maximum: 396.00
+
+Mean Difference: 93.75
+
+95% CONFIDENCE INTERVALS
+------------------------
+Passing Accuracy >= 90%
+95% CI: (255.98, 332.72)
+
+Passing Accuracy < 90%
+95% CI: (183.11, 218.09)
+
+Difference Between Means
+95% CI: (51.96, 135.54)
+
+HYPOTHESES
+----------
+H0: The mean number of completed passes is the same for players with passing accuracy >= 90% and players with passing accuracy < 90%.
+H1: The mean number of completed passes is different between players with passing accuracy >= 90% and players with passing accuracy < 90%.
+
+WELCH TWO-SAMPLE T-TEST
+-----------------------
+T-statistic: 4.4971
+P-value: 0.000036
+Significance Level (alpha): 0.05
+
+DECISION
+--------
+Reject the null hypothesis (H0).
+
+CONCLUSION
+----------
+There is statistically significant evidence that the average number of completed passes differs between FIFA World Cup 2026 players with passing accuracy of 90% or greater and players with passing accuracy below 90%.
+The >=90% group completed an average of 294.35 passes, compared with 200.60 passes for the <90% group.
+The estimated mean difference was 93.75 passes, with a 95% confidence interval from 51.96 to 135.54 passes.
