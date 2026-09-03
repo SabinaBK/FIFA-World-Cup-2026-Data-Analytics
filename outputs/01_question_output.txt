@@ -1,7 +1,5 @@
 
-================================================================================
 1. ANALYTIC QUESTION FORMULATION
-================================================================================
 
 Research Question:
 Is the average number of shots on target per 90 minutes different between forwards from progressed teams and forwards from eliminated teams in the FIFA World Cup 2026?
