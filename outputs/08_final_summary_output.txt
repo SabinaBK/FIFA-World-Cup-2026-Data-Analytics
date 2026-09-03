@@ -1,0 +1,85 @@
+
+================================================================================
+8. FINAL CONCLUSION OF ANALYSIS OF FIFA WORLD CUP 2026 FORWARDS SHOTS ON TARGET PER 90 MINUTES
+================================================================================
+
+ANALYTIC QUESTION
+
+Is the average number of shots on target per 90 minutes different between forwards from progressed teams and forwards from eliminated teams in the FIFA World Cup 2026?
+
+
+DATA PREPARATION AND SAMPLING
+
+The population consisted of all forwards who appeared in at least one
+FIFA World Cup 2026 match and had a valid SoT/90 value.
+
+Players whose FBref position contained 'FW' were retained, while
+players with zero playing time were excluded.
+
+Teams appearing in the Round of 32 were classified as Progressed,
+and the remaining group-stage teams were classified as Eliminated.
+
+Stratified random sampling with random seed 140 was used.
+
+Progressed-team sample:
+n = 30
+
+Eliminated-team sample:
+n = 30
+
+Total sample:
+n = 60
+
+Both comparison groups therefore contain at least 30 observations.
+
+
+DESCRIPTIVE STATISTICS
+
+Progressed-team forwards:
+Mean SoT/90 = 1.028
+SD = 1.222
+Median = 0.870
+
+Eliminated-team forwards:
+Mean SoT/90 = 0.768
+SD = 1.052
+Median = 0.450
+
+
+95% CONFIDENCE INTERVALS
+
+Progressed-team forwards:
+[0.572, 1.484]
+
+Eliminated-team forwards:
+[0.376, 1.161]
+
+
+TWO-SAMPLE T-TEST
+
+Test:
+Welch's independent two-sample t-test
+
+t-statistic:
+0.8822
+
+p-value:
+0.3814
+
+Significance level:
+alpha = 0.05
+
+
+DECISION
+
+Fail to reject H0
+
+
+CONCLUSION
+
+At the 5% significance level, there is insufficient statistical evidence to conclude that the average number of shots on target per 90 minutes differs between forwards from progressed teams and forwards from eliminated teams in the FIFA World Cup 2026.
+
+
+================================================================================
+END OF ANALYSIS
+================================================================================

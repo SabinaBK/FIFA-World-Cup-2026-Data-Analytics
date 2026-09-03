@@ -1,0 +1,25 @@
+
+================================================================================
+7. VISUALISATION
+================================================================================
+
+Visualisation:
+Boxplot
+
+Variable:
+Shots on Target per 90 Minutes (SoT/90)
+
+Groups:
+Progressed-team forwards
+Eliminated-team forwards
+
+Progressed sample size:
+30
+
+Eliminated sample size:
+30
+
+The boxplot was created successfully.
+
+Image saved as:
+07_sot90_boxplot.png

@@ -1,0 +1,39 @@
+
+================================================================================
+5. INFERENTIAL STATISTICS - 95% CONFIDENCE INTERVAL
+================================================================================
+
+PROGRESSED-TEAM FORWARDS
+
+Sample size:
+n = 30
+
+Mean SoT/90:
+1.028
+
+Standard deviation:
+1.222
+
+Standard error:
+0.223
+
+95% Confidence Interval:
+[0.572, 1.484]
+
+
+ELIMINATED-TEAM FORWARDS
+
+Sample size:
+n = 30
+
+Mean SoT/90:
+0.768
+
+Standard deviation:
+1.052
+
+Standard error:
+0.192
+
+95% Confidence Interval:
+[0.376, 1.161]

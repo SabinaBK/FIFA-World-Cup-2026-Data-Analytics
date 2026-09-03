@@ -1,0 +1,22 @@
+
+================================================================================
+4. DESCRIPTIVE STATISTICS
+================================================================================
+
+Variable:
+Shots on Target per 90 Minutes (SoT/90)
+
+Descriptive Statistics:
+
+              n   mean  median  standard_deviation  minimum  maximum
+Team_Status                                                         
+Eliminated   30  0.768    0.45               1.052      0.0     4.74
+Progressed   30  1.028    0.87               1.222      0.0     4.62
+
+Sample Size Check:
+
+Progressed:
+n = 30
+
+Eliminated:
+n = 30

@@ -1,0 +1,29 @@
+
+================================================================================
+2. DATA WRANGLING
+================================================================================
+
+Raw player records loaded:
+1039
+
+Original columns:
+['Rk', 'Player', 'Pos', 'Squad', 'Age', 'Born', '90s', 'Gls', 'Sh', 'SoT', 'SoT%', 'Sh/90', 'SoT/90', 'G/Sh', 'G/SoT', 'PK', 'PKatt', 'Matches', '-9999']
+
+Selected variables after wrangling:
+['Player', 'Pos', 'Team', '90s', 'Sh', 'SoT', 'SoT/90']
+
+First 10 records after wrangling:
+
+            Player Pos         Team  90s   Sh  SoT  SoT/90
+  Brenden Aaronson  MF          USA  0.8 3.75 1.25    1.18
+    Thelo Aasgaard  MF       Norway  1.0 2.00 1.00    1.00
+  Hamza Abdelkarim  FW        Egypt  0.7 0.00 0.00    0.00
+Hossam Abdelmaguid  DF        Egypt  0.7 0.00 0.00    0.00
+Mohamed Abdelmonem  DF        Egypt  0.2 0.00 0.00    0.00
+          Ali Abdi  DF      Tunisia  3.0 0.33 0.00    0.00
+   Saud Abdulhamid  DF Saudi Arabia  3.0 0.67 0.00    0.00
+ Abdulla Abdullaev  DF   Uzbekistan  2.0 0.00 0.00    0.00
+   Yusuf Abdurisag  FW        Qatar  1.1 0.00 0.00    0.00
+   Husam Abu Dahab  DF       Jordan  2.0 0.00 0.00    0.00
+
+Data wrangling completed successfully.
