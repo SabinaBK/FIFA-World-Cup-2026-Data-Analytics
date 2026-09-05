@@ -1,0 +1,22 @@
+
+================================================================================
+1. ANALYTIC QUESTION FORMULATION
+================================================================================
+
+Research Question:
+Is the average number of shots on target per 90 minutes different between forwards from progressed teams and forwards from eliminated teams in the FIFA World Cup 2026?
+
+Population:
+All forwards who appeared in at least one FIFA World Cup 2026 match
+and have a valid shots-on-target-per-90 value.
+
+Groups:
+Group 1: Forwards from teams that progressed to the Round of 32.
+Group 2: Forwards from teams eliminated during the group stage.
+
+Hypotheses:
+H0: mean SoT/90 (Progressed) = mean SoT/90 (Eliminated)
+H1: mean SoT/90 (Progressed) != mean SoT/90 (Eliminated)
+
+Significance level:
+alpha = 0.05

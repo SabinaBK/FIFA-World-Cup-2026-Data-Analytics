@@ -1,0 +1,61 @@
+
+================================================================================
+6. INFERENTIAL STATISTICS - TWO-SAMPLE T-TEST
+================================================================================
+
+Test:
+Welch's Independent Two-Sample T-Test
+
+Why Welch's t-test?
+- The two groups contain different players.
+- SoT/90 is a numerical variable.
+- Equal population variances do not need to be assumed.
+
+SAMPLE SIZE CHECK
+----------------------------------------
+
+Progressed sample:
+n = 30
+
+Eliminated sample:
+n = 30
+
+Progressed n >= 30:
+PASS
+
+Eliminated n >= 30:
+PASS
+
+
+TEST RESULTS
+----------------------------------------
+
+Progressed mean SoT/90:
+1.028
+
+Eliminated mean SoT/90:
+0.768
+
+Mean difference:
+0.260
+
+t-statistic:
+0.8822
+
+p-value:
+0.3814
+
+Alpha:
+0.05
+
+
+HYPOTHESIS DECISION
+----------------------------------------
+
+Fail to reject H0
+
+
+STATISTICAL CONCLUSION
+----------------------------------------
+
+At the 5% significance level, there is insufficient statistical evidence to conclude that the average number of shots on target per 90 minutes differs between forwards from progressed teams and forwards from eliminated teams in the FIFA World Cup 2026.
