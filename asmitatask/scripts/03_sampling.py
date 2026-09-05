@@ -13,10 +13,20 @@ from common import (
 )
 
 
-# Set the output file path
+# Set output file paths
 output_file = (
     OUTPUT_FOLDER /
     "03_sampling_output.txt"
+)
+
+progressed_csv_file = (
+    OUTPUT_FOLDER /
+    "03_progressed_sample.csv"
+)
+
+eliminated_csv_file = (
+    OUTPUT_FOLDER /
+    "03_eliminated_sample.csv"
 )
 
 
@@ -32,7 +42,43 @@ output_file = (
 ) = create_sample()
 
 
-# Select and sort variables for displaying the sample
+# Select columns for progressed sample
+progressed_display = progressed_sample[
+    [
+        "Player",
+        "Team",
+        "Pos",
+        "90s",
+        "SoT/90",
+        "Team_Status"
+    ]
+].sort_values(
+    [
+        "Team",
+        "Player"
+    ]
+)
+
+
+# Select columns for eliminated sample
+eliminated_display = eliminated_sample[
+    [
+        "Player",
+        "Team",
+        "Pos",
+        "90s",
+        "SoT/90",
+        "Team_Status"
+    ]
+].sort_values(
+    [
+        "Team",
+        "Player"
+    ]
+)
+
+
+# Combine both groups for displaying in the text output
 sample_display = sample[
     [
         "Player",
@@ -97,23 +143,56 @@ Total sample:
 
 Both groups satisfy the requirement of at least 30 observations.
 
-Sampled forwards:
+PROGRESSED SAMPLE
+{'-' * 40}
+
+{progressed_display.to_string(index=False)}
+
+ELIMINATED SAMPLE
+{'-' * 40}
+
+{eliminated_display.to_string(index=False)}
+
+COMBINED SAMPLE
+{'-' * 40}
+
 {sample_display.to_string(index=False)}
 """
 
 
-# Save the results to a text file
+# Save the complete sampling results to a text file
 output_file.write_text(
     output,
     encoding="utf-8"
 )
 
 
-# Display the results and saved file location
-print(output)
-
-print(
-    "\nOutput automatically saved to:"
+# Save progressed sample to CSV
+progressed_display.to_csv(
+    progressed_csv_file,
+    index=False,
+    encoding="utf-8-sig"
 )
 
+
+# Save eliminated sample to CSV
+eliminated_display.to_csv(
+    eliminated_csv_file,
+    index=False,
+    encoding="utf-8-sig"
+)
+
+
+# Display results in terminal
+print(output)
+
+
+# Display saved file locations
+print("\nText output automatically saved to:")
 print(output_file)
+
+print("\nProgressed sample CSV automatically saved to:")
+print(progressed_csv_file)
+
+print("\nEliminated sample CSV automatically saved to:")
+print(eliminated_csv_file)
