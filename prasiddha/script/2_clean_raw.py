@@ -1,8 +1,12 @@
 import pandas as pd
 import re
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+RAW_DIR = BASE_DIR / "data" / "raw data"
 
 # Load raw dataset
-df = pd.read_csv("fifa_passing_raw.csv")
+df = pd.read_csv(RAW_DIR / "fifa_passing_raw.csv")
 
 print("Before cleaning:")
 print(df["Player"].head(20))
