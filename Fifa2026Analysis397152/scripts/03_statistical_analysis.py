@@ -8,6 +8,7 @@ Outputs:
     outputs/fouls_descriptive_statistics.csv
     outputs/fouls_confidence_intervals.csv
     outputs/fouls_hypothesis_test_results.csv
+    outputs/fouls_histograms_winning_vs_losing.png
     outputs/fouls_statistical_summary.txt
 """
 
@@ -15,6 +16,7 @@ import os
 
 import pandas as pd
 from scipy import stats
+import matplotlib.pyplot as plt
 
 
 INPUT_PATH = os.path.join(
@@ -217,6 +219,86 @@ def main() -> None:
         ),
         index=False,
     )
+    # HISTOGRAMS: FOULS BY MATCH OUTCOME
+   
+
+    plt.style.use("seaborn-v0_8-whitegrid")
+
+    # Use the same bins for both groups so the distributions
+    # can be compared fairly.
+    bins = range(0, 28, 1)
+
+    figure, axes = plt.subplots(
+        nrows=1,
+        ncols=2,
+        figsize=(12, 5),
+        sharex=True,
+        sharey=True,
+    )
+
+    # Winning-team foul distribution
+    axes[0].hist(
+        winners,
+        bins=bins,
+        color="#163B65",
+        edgecolor="white",
+        alpha=0.9,
+    )
+
+    axes[0].axvline(
+        winners.mean(),
+        color="#2E8B57",
+        linestyle="--",
+        linewidth=2,
+        label=f"Mean = {winners.mean():.2f}",
+    )
+
+    axes[0].set_title(f"Winning Teams (n = {len(winners)})")
+    axes[0].set_xlabel("Fouls committed per match")
+    axes[0].set_ylabel("Frequency")
+    axes[0].legend()
+
+    # Losing-team foul distribution
+    axes[1].hist(
+        losers,
+        bins=bins,
+        color="#C94A38",
+        edgecolor="white",
+        alpha=0.9,
+    )
+
+    axes[1].axvline(
+        losers.mean(),
+        color="#2E8B57",
+        linestyle="--",
+        linewidth=2,
+        label=f"Mean = {losers.mean():.2f}",
+    )
+
+    axes[1].set_title(f"Losing Teams (n = {len(losers)})")
+    axes[1].set_xlabel("Fouls committed per match")
+    axes[1].legend()
+
+    figure.suptitle(
+        "FIFA World Cup 2026: Distribution of Fouls by Match Outcome",
+        fontsize=14,
+        fontweight="bold",
+    )
+
+    figure.tight_layout()
+
+    histogram_path = os.path.join(
+        OUTPUT_DIRECTORY,
+        "fouls_histograms_winning_vs_losing.png",
+    )
+
+    figure.savefig(
+        histogram_path,
+        dpi=300,
+        bbox_inches="tight",
+    )
+
+    plt.close(figure)
 
     decision = (
         "Reject H0"
@@ -274,6 +356,7 @@ def main() -> None:
     print("\n".join(summary_lines))
     print("")
     print("Statistical analysis completed successfully.")
+    print(f"Histogram saved to: {histogram_path}")
 
 
 if __name__ == "__main__":
