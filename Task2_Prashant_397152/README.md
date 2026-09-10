@@ -11,7 +11,7 @@ Data Sources:
 The Stats Don't Lie: https://www.thestatsdontlie.com/football/world-cup-2026/
 FB Ref: https://fbref.com/en/
 
-Here, I have extracted embedded file from the site The Stats Don't Lie and got this google sheets endpoint which is used by that website and I used python for the futher data extratction. And in that website there was only 103 games foul data and I took one missing data from the other approved site FBREF and made the data of 104 games and done the data wrangling and proceed with the analysis. I have attached the endpoint link below:
+Here, I have extracted embedded file from the site The Stats Don't Lie and got this google sheets endpoint which is used by that website and I used python for the futher data extratction. And in that website there was only 103 games foul data and I took one missing data from the other approved site FBREF and made the data of 104 games and done the data wrangling and proceed with the analysis and the Draw matches where excluded while doing the analysis. I have attached the endpoint link below:
 
 Published Google Sheets endpoint: https://docs.google.com/spreadsheets/d/e/2PACX-1vSWZFlaUHTBK09v4I1Kv7ZQ0ophhlpsCr7VPFW5dkbdG0Zpl8mRkXrTZezZMr1Ia9V9cpwmq7BKPQ03/pubhtml/sheet?headers=false&gid=995472238
 
